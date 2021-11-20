@@ -1,7 +1,7 @@
 {
   "current": {
-    "colors_solid_button_labels": "#FFFFFF",
-    "colors_accent_1": "#ff8900",
+    "colors_solid_button_labels": "#a1770e",
+    "colors_accent_1": "#d4d1cd",
     "colors_accent_2": "#ffffff",
     "colors_text": "#a1770e",
     "colors_outline_button_labels": "#121212",
@@ -9,7 +9,7 @@
     "colors_background_2": "#F3F3F3",
     "type_header_font": "kalam_n4",
     "heading_scale": 105,
-    "type_body_font": "assistant_n4",
+    "type_body_font": "kalam_n4",
     "sale_badge_color_scheme": "accent-1",
     "sections": {
       "announcement-bar": {
