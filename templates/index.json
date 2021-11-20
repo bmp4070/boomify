@@ -10,10 +10,16 @@
             "heading_size": "medium"
           }
         },
+        "1d22be3f-8aad-4b12-94d9-87b64f8b7c9e": {
+          "type": "text",
+          "settings": {
+            "text": "Enrich your home and living with our art collection"
+          }
+        },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Shop Now",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -24,6 +30,7 @@
       },
       "block_order": [
         "heading",
+        "1d22be3f-8aad-4b12-94d9-87b64f8b7c9e",
         "button"
       ],
       "settings": {
